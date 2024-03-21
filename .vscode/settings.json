@@ -1,0 +1,13 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "Google Cloud Spanner Driver",
+      "name": "spanner_db",
+      "connectToEmulator": true,
+      "project": "v2-lissen-dev-umer",
+      "instance": "tfgen-spanid-20240127215642867",
+      "database": "main"
+    }
+  ]
+}
